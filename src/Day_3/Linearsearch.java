@@ -6,6 +6,7 @@ public class Linearsearch {
 		int[] arr = {2,7,5,6,9,7};
 		int key = 7;
 		findElement(arr,key);
+		
 	}
 
 	private static void findElement(int[] arr, int key) {
