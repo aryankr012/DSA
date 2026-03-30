@@ -1,6 +1,6 @@
 package Day_4;
 
-public class SumOfDigit {
+public class SumOfDigit{
 
 	public static void main(String[] args) {
 //		int num = 133;
